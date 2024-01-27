@@ -1,2 +1,3 @@
 # lms-2
-PyGame
+pygame
+pygame.locals
